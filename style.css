@@ -1,0 +1,37 @@
+button {
+    display:flex;
+display:inline-block;
+margin-top: 1%;
+margin-left: 10px;
+align-items: center;
+border: 1px solid black;
+/* box-shadow: 1px 1px 1px 1px; */
+height: 30px;
+width: 30px;
+border-radius: 5px;
+background-color: rgb(78, 72, 72);
+color: azure;
+}
+input{
+    height: 30px;
+    width: 165px;
+    background-color: rgb(161, 161, 112);
+}
+div{
+    width:fit-content;
+    background-color: rgb(37, 33, 33);
+    height: 240px;
+    box-shadow: 1px 1px 1px 1px;
+    display: block;
+    border-radius: 10px;
+    margin: 25% auto 10px auto;
+border: 1px solid black;
+padding: 5px;
+}
+#btn{
+    position: absolute;
+    top: 270px;
+    bottom: 40px;
+    left: 56.5%;
+    height: 55px;
+}
